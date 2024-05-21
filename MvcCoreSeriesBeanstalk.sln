@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcCoreSeriesBeanstalk", "MvcCoreSeriesBeanstalk\MvcCoreSeriesBeanstalk.csproj", "{B981A37F-7548-4FAE-B29D-81965D4565AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B981A37F-7548-4FAE-B29D-81965D4565AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B981A37F-7548-4FAE-B29D-81965D4565AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B981A37F-7548-4FAE-B29D-81965D4565AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B981A37F-7548-4FAE-B29D-81965D4565AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0538075F-DD20-4D3D-A2D6-E651E6EE262A}
+	EndGlobalSection
+EndGlobal
